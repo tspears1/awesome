@@ -81,6 +81,7 @@ A toolbox of awesome apps, libraries and creators - some tested and others to be
 
 ## Fonts
 - [Megazoid](https://fonts.adobe.com/fonts/megazoid) - as seen on [Happy Viking](https://live.standards.site/happyviking2023)
+- [Inclusive Sans](https://www.oliviaking.com/inclusive-sans)
 
 ## Runtime
 - [Deno](https://docs.deno.com/runtime/manual) - from the creator of Node.js
