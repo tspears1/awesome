@@ -19,13 +19,6 @@ A toolbox of awesome apps, libraries and creators - some tested and others to be
   - [Runtime](#runtime)
   - [Markdown](#markdown)
   - [Motion](#motion)
-  - [Javascript](#javascript)
-    - [Vanialla](#vanialla)
-    - [React](#react)
-    - [SolidJS](#solidjs)
-    - [Svelte](#svelte)
-  - [CSS](#css)
-    - [SCSS](#scss)
   - [Brand](#brand)
   - [People](#people)
   - [Inspiration](#inspiration)
@@ -102,19 +95,19 @@ A toolbox of awesome apps, libraries and creators - some tested and others to be
 - [Rive](https://rive.app/) - make functional graphics
 - [Cavalry](https://cavalry.scenegroup.co/) - 2D Animation Software
 
-## Javascript
+[//]: # (## Javascript)
 
-### Vanialla
+[//]: # (### Vanialla)
 
-### React
+[//]: # (### React)
 
-### SolidJS
+[//]: # (### SolidJS)
 
-### Svelte
+[//]: # (### Svelte)
 
-## CSS
+[//]: # (## CSS)
 
-### SCSS
+[//]: # (### SCSS)
 
 ## Brand
 - [Standards](https://standards.site/) - Online brand guidelines for modern brands.
