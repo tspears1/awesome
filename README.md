@@ -121,5 +121,6 @@ A toolbox of awesome apps, libraries and creators - some tested and others to be
 - [Widelab](https://www.widelab.co/)
 - [Opal](https://opalcamera.com/opal-tadpole)
 - [PayloadCMS](https://payloadcms.com/)
+- [Konpo](https://www.konpo.studio/)
 - [Codrops: On Scroll Text Highlighting](https://tympanus.net/codrops/2024/04/17/some-on-scroll-text-highlight-animations/)
 - [Ryan Mulligan](https://ryanmulligan.dev/) - Frontend Dev Blog
