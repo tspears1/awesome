@@ -42,6 +42,7 @@ A toolbox of awesome apps, libraries and creators - some tested and others to be
 
 ## Databases
 - [Prisma](https://www.prisma.io/) - Simplify Databases
+- [Edge DB](https://www.edgedb.com/)
 
 ## Build/Deploy
 - [Supabase](https://supabase.com/) - open source Firebase alternative
