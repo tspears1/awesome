@@ -68,6 +68,7 @@ A toolbox of awesome apps, libraries and creators - some tested and others to be
 - [Vaul](https://github.com/emilkowalski/vaul) - React Drawer component
 - [Sonner](https://github.com/emilkowalski/sonner) - React Toast Component
 - [Skeleton](https://www.skeleton.dev/)
+- [LDRS](https://uiball.com/ldrs/) - Free, open-source loaders and spinners for your next project. Built with HTML, CSS & SVG, and powered by web components, for maximum compatibility.
 
 ## Icons
 - [Phospher](https://phosphoricons.com/)
