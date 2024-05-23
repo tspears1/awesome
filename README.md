@@ -120,6 +120,7 @@ A toolbox of awesome apps, libraries and creators - some tested and others to be
 - [The Cascade](https://www.csscade.com/) - CSS Blog
 
 ## Inspiration
+- [ToyFight](https://toyfight.co/)
 - [Widelab](https://www.widelab.co/)
 - [The Variable - Agency](https://thevariable.com/)
 - [Opal](https://opalcamera.com/opal-tadpole)
